@@ -2,6 +2,7 @@
     width: 350px;
     height: 455px;
     background: rgb(21, 114, 219);
+    align :center;
 }
 #screen{
     width: 80%;
